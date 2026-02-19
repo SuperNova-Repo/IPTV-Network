@@ -1,0 +1,57 @@
+import requests
+import re
+from datetime import datetime
+
+url = "https://raw.githubusercontent.com/michaz1988/michaz1988.github.io/main/.epg/mac.txt"
+
+response = requests.get(url)
+response.raise_for_status()
+lines = response.text.strip().split('\n')
+
+valid_entries = []
+expired_entries = []
+now = datetime.now()
+
+pattern = re.compile(r'^([0-9A-Fa-f]{12})\s*#\s*(.+?)\s*\|\s*EXP:\s*(\d{4}-\d{2}-\d{2})')
+
+for line in lines:
+    line = line.strip()
+    if not line or line.startswith('#'):
+        continue
+    
+    match = pattern.match(line)
+    if not match:
+        continue
+        
+    mac = match.group(1).upper()
+    mac_formatted = ':'.join(mac[i:i+2] for i in range(0, 12, 2))
+    name = match.group(2).strip()
+    exp_date_str = match.group(3)
+    
+    try:
+        exp_date = datetime.strptime(exp_date_str, "%Y-%m-%d")
+        status = "aktiv" if exp_date >= now else "abgelaufen"
+        remaining = (exp_date - now).days
+    except:
+        status = "ungültiges Datum"
+        remaining = "N/A"
+    
+    entry = f"{mac_formatted} | {name} | EXP: {exp_date_str} | Status: {status}"
+    
+    if status == "abgelaufen":
+        expired_entries.append(entry)
+    else:
+        valid_entries.append(entry)
+
+print("═══ AKTIVE MACs ═════════════════════════════════")
+for e in valid_entries:
+    print(e)
+
+print("\n═══ ABGELAUFENE MACs ═══════════════════════════")
+for e in expired_entries:
+    print(e)
+
+print(f"\n\nZusammenfassung:")
+print(f"Aktive MACs:     {len(valid_entries)}")
+print(f"Abgelaufene:     {len(expired_entries)}")
+print(f"Gesamt:          {len(valid_entries) + len(expired_entries)}")
