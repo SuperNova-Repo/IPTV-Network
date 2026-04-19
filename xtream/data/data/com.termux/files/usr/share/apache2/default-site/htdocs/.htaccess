@@ -1,0 +1,11 @@
+RewriteEngine On
+
+# Fix 1: API-PHP ohne /best/ → /best/ (OTT-Navigator: player_api.php etc.)
+RewriteCond %{REQUEST_URI} !^/best/
+RewriteCond %{REQUEST_URI} !^/vavoo/
+RewriteRule ^(player_api|panel_api|get|xmltv)\$.php /best/$1.php [QSA,L]
+
+# Fix 2: Stream-URLs ohne /best/ → /best/ (OTT-Navigator: /live/ /movie/ /series/)
+RewriteCond %{REQUEST_URI} !^/best/
+RewriteCond %{REQUEST_URI} !^/vavoo/
+RewriteRule ^(live|movie|series)/(.*)$ /best/$1/$2 [L]

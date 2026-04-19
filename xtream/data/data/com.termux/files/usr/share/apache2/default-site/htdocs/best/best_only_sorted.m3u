@@ -1,0 +1,1027 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_2B5C_41B_A401_FFFF0000_0_0_0.png" tvg-id="DasErste.de" tvg-name="DAS ERSTE HD" group-title="FreeTV",Das Erste HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3463_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_2B5C_41B_A401_FFFF0000_0_0_0.png" tvg-id="DasErste.de" tvg-name="DAS ERSTE HD" group-title="FreeTV",Das Erste HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132828_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_2B5C_41B_A401_FFFF0000_0_0_0.png" tvg-id="DasErste.de" tvg-name="DAS ERSTE HD" group-title="FreeTV",Das Erste HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377343_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_2B5C_41B_A401_FFFF0000_0_0_0.png" tvg-id="DasErste.de" tvg-name="DAS ERSTE HD" group-title="FreeTV",Das Erste HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/356358_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_2B5C_41B_A401_FFFF0000_0_0_0.png" tvg-id="DasErste.de" tvg-name="DAS ERSTE HD" group-title="FreeTV",Das Erste HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/572011_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_2B66_437_66_FFFF0000_0_0_0.png" tvg-id="ZDF.de" tvg-name="ZDF HD" group-title="FreeTV",ZDF HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/135824_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_2B66_437_66_FFFF0000_0_0_0.png" tvg-id="ZDF.de" tvg-name="ZDF HD" group-title="FreeTV",ZDF HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132827_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_2B66_437_66_FFFF0000_0_0_0.png" tvg-id="ZDF.de" tvg-name="ZDF HD" group-title="FreeTV",ZDF HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377340_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_2B66_437_66_FFFF0000_0_0_0.png" tvg-id="ZDF.de" tvg-name="ZDF HD" group-title="FreeTV",ZDF HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/286746_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_2B66_437_66_FFFF0000_0_0_0.png" tvg-id="ZDF.de" tvg-name="ZDF HD" group-title="FreeTV",ZDF HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/572010_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_DB2A_231_270F_FFFF0000_0_0_0.png" tvg-id="SWRFernsehen.de" tvg-name="SWR HD" group-title="FreeTV",SWR HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3421_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_DB2A_231_270F_FFFF0000_0_0_0.png" tvg-id="SWRFernsehen.de" tvg-name="SWR HD" group-title="FreeTV",SWR HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/375197_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_4331_300C_13E_820000_0_0_0.png" tvg-id="SRF1.ch" tvg-name="SRF 1" group-title="FreeTV",SRF 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/7447_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_4331_300C_13E_820000_0_0_0.png" tvg-id="SRF1.ch" tvg-name="SRF 1" group-title="FreeTV",SRF 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/227436_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_4332_300C_13E_820000_0_0_0.png" tvg-id="SRF2.ch" tvg-name="SRF 2" group-title="FreeTV",SRF 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/7448_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_4332_300C_13E_820000_0_0_0.png" tvg-id="SRF2.ch" tvg-name="SRF 2" group-title="FreeTV",SRF 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/227437_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_4335_300C_13E_820000_0_0_0.png" tvg-id="SRFinfo.ch" tvg-name="SRF Info" group-title="FreeTV",SRF info HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/134401_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_4335_300C_13E_820000_0_0_0.png" tvg-id="SRFinfo.ch" tvg-name="SRF Info" group-title="FreeTV",SRF info HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/219595_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/orf-1-hd.png" tvg-id="ORF1.at" tvg-name="ORF1" group-title="FreeTV",ORF1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/29995_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/orf-1-hd.png" tvg-id="ORF1.at" tvg-name="ORF1" group-title="FreeTV",ORF1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/339225_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_1330_3EF_1_C00000_0_0_0.png" tvg-id="ORF2.at" tvg-name="ORF2" group-title="FreeTV",ORF2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/29996_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_1330_3EF_1_C00000_0_0_0.png" tvg-id="ORF2.at" tvg-name="ORF2" group-title="FreeTV",ORF2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/339227_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_1330_3EF_1_C00000_0_0_0.png" tvg-id="ORF2.at" tvg-name="ORF2" group-title="FreeTV",ORF2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/375193_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_1330_3EF_1_C00000_0_0_0.png" tvg-id="ORF2.at" tvg-name="ORF2" group-title="FreeTV",ORF2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/487803_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_1330_3EF_1_C00000_0_0_0.png" tvg-id="ORF2.at" tvg-name="ORF2" group-title="FreeTV",ORF2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/375192_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_1330_3EF_1_C00000_0_0_0.png" tvg-id="ORF2.at" tvg-name="ORF2" group-title="FreeTV",ORF2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/375191_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_1330_3EF_1_C00000_0_0_0.png" tvg-id="ORF2.at" tvg-name="ORF2" group-title="FreeTV",ORF2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/375189_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_1330_3EF_1_C00000_0_0_0.png" tvg-id="ORF2.at" tvg-name="ORF2" group-title="FreeTV",ORF2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/375188_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_1330_3EF_1_C00000_0_0_0.png" tvg-id="ORF2.at" tvg-name="ORF2" group-title="FreeTV",ORF2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/375187_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_1330_3EF_1_C00000_0_0_0.png" tvg-id="ORF2.at" tvg-name="ORF2" group-title="FreeTV",ORF2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/375186_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_1330_3EF_1_C00000_0_0_0.png" tvg-id="ORF2.at" tvg-name="ORF2" group-title="FreeTV",ORF2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/375185_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_1330_3EF_1_C00000_0_0_0.png" tvg-id="ORF2.at" tvg-name="ORF2" group-title="FreeTV",ORF2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/375190_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_33FC_3ED_1_C00000_0_0_0.png" tvg-id="ORF3.at" tvg-name="ORF3" group-title="FreeTV",ORF3 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/129284_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_33FC_3ED_1_C00000_0_0_0.png" tvg-id="ORF3.at" tvg-name="ORF3" group-title="FreeTV",ORF3 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/339221_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_EF74_3F9_1_C00000_0_0_0.png" tvg-id="Sat1.de" tvg-name="Sat.1" group-title="FreeTV",Sat.1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/176190_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_EF74_3F9_1_C00000_0_0_0.png" tvg-id="Sat1.de" tvg-name="Sat.1" group-title="FreeTV",Sat.1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132821_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_EF74_3F9_1_C00000_0_0_0.png" tvg-id="Sat1.de" tvg-name="Sat.1" group-title="FreeTV",Sat.1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377326_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_EF74_3F9_1_C00000_0_0_0.png" tvg-id="Sat1.de" tvg-name="Sat.1" group-title="FreeTV",Sat.1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3385_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_EF74_3F9_1_C00000_0_0_0.png" tvg-id="Sat1.de" tvg-name="Sat.1" group-title="FreeTV",Sat.1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/572008_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_D73E_227_270F_FFFF0000_0_0_0.png" tvg-id="RTL.de" tvg-name="RTL" group-title="FreeTV",RTL HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3424_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_D73E_227_270F_FFFF0000_0_0_0.png" tvg-id="RTL.de" tvg-name="RTL" group-title="FreeTV",RTL HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132818_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_D73E_227_270F_FFFF0000_0_0_0.png" tvg-id="RTL.de" tvg-name="RTL" group-title="FreeTV",RTL HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377320_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_D73E_227_270F_FFFF0000_0_0_0.png" tvg-id="RTL.de" tvg-name="RTL" group-title="FreeTV",RTL HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/356357_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_D73E_227_270F_FFFF0000_0_0_0.png" tvg-id="RTL.de" tvg-name="RTL" group-title="FreeTV",RTL HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/572009_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_814E_14B_270F_FFFF0000_0_0_0.png" tvg-id="RTL2.de" tvg-name="RTL2" group-title="FreeTV",RTL2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3425_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_814E_14B_270F_FFFF0000_0_0_0.png" tvg-id="RTL2.de" tvg-name="RTL2" group-title="FreeTV",RTL2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132817_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_814E_14B_270F_FFFF0000_0_0_0.png" tvg-id="RTL2.de" tvg-name="RTL2" group-title="FreeTV",RTL2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377319_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_814E_14B_270F_FFFF0000_0_0_0.png" tvg-id="RTL2.de" tvg-name="RTL2" group-title="FreeTV",RTL2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/356356_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_814E_14B_270F_FFFF0000_0_0_0.png" tvg-id="RTL2.de" tvg-name="RTL2" group-title="FreeTV",RTL2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/572005_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_814E_14B_270F_FFFF0000_0_0_0.png" tvg-id="RTL2.de" tvg-name="RTL2" group-title="FreeTV",RTL2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/412401_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_7D66_141_270F_FFFF0000_0_0_0.png" tvg-id="ProSieben.de" tvg-name="ProSieben" group-title="FreeTV",ProSieben HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3427_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_7D66_141_270F_FFFF0000_0_0_0.png" tvg-id="ProSieben.de" tvg-name="ProSieben" group-title="FreeTV",ProSieben HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132820_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_7D66_141_270F_FFFF0000_0_0_0.png" tvg-id="ProSieben.de" tvg-name="ProSieben" group-title="FreeTV",ProSieben HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377323_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_7D66_141_270F_FFFF0000_0_0_0.png" tvg-id="ProSieben.de" tvg-name="ProSieben" group-title="FreeTV",ProSieben HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/356353_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_7D66_141_270F_FFFF0000_0_0_0.png" tvg-id="ProSieben.de" tvg-name="ProSieben" group-title="FreeTV",ProSieben HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/572006_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_7D67_141_270F_FFFF0000_0_0_0.png" tvg-id="KabelEins.de" tvg-name="kabel eins" group-title="FreeTV",kabel eins HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3471_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_7D67_141_270F_FFFF0000_0_0_0.png" tvg-id="KabelEins.de" tvg-name="kabel eins" group-title="FreeTV",kabel eins HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132822_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_7D67_141_270F_FFFF0000_0_0_0.png" tvg-id="KabelEins.de" tvg-name="kabel eins" group-title="FreeTV",kabel eins HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377328_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_814F_14B_270F_FFFF0000_0_0_0.png" tvg-id="Vox.de" tvg-name="Vox" group-title="FreeTV",Vox HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3361_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_814F_14B_270F_FFFF0000_0_0_0.png" tvg-id="Vox.de" tvg-name="Vox" group-title="FreeTV",Vox HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132823_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_814F_14B_270F_FFFF0000_0_0_0.png" tvg-id="Vox.de" tvg-name="Vox" group-title="FreeTV",Vox HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377331_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_814F_14B_270F_FFFF0000_0_0_0.png" tvg-id="Vox.de" tvg-name="Vox" group-title="FreeTV",Vox HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/356355_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_814F_14B_270F_FFFF0000_0_0_0.png" tvg-id="Vox.de" tvg-name="Vox" group-title="FreeTV",Vox HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/572007_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_1_4E94_A1_270F_FFFF0000_0_0_0.png" tvg-id="Sixx.de" tvg-name="sixx" group-title="FreeTV",sixx HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/173743_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_1_4E94_A1_270F_FFFF0000_0_0_0.png" tvg-id="Sixx.de" tvg-name="sixx" group-title="FreeTV",sixx HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/29035_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_1_4E94_A1_270F_FFFF0000_0_0_0.png" tvg-id="Sixx.de" tvg-name="sixx" group-title="FreeTV",sixx HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377295_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_1_4E94_A1_270F_FFFF0000_0_0_0.png" tvg-id="Sixx.de" tvg-name="sixx" group-title="FreeTV",sixx HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/356352_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_1_4E94_A1_270F_FFFF0000_0_0_0.png" tvg-id="Sixx.de" tvg-name="sixx" group-title="FreeTV",sixx HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/210689_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_7980_1C3_270F_FFFF0000_0_0_0.png" tvg-id="DMax.de" tvg-name="DMAX" group-title="FreeTV",DMAX HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377329_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_7980_1C3_270F_FFFF0000_0_0_0.png" tvg-id="DMax.de" tvg-name="DMAX" group-title="FreeTV",DMAX HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3464_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_7980_1C3_270F_FFFF0000_0_0_0.png" tvg-id="DMax.de" tvg-name="DMAX" group-title="FreeTV",DMAX HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/434689_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_2F53_79_270F_FFFF0000_0_0_0.png" tvg-id="phoenix.de" tvg-name="PHOENIX" group-title="FreeTV",PHOENIX HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/30052_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_71B5_191_270F_FFFF0000_0_0_0.png" tvg-id="ServusTV.at" tvg-name="ServusTV" group-title="FreeTV",ServusTV HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/260868_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_A08F_191_270F_FFFF0000_0_0_0.png" tvg-id="ZDFneo.de" tvg-name="ZDFneo" group-title="FreeTV",ZDFneo HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377339_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_A08F_191_270F_FFFF0000_0_0_0.png" tvg-id="ZDFneo.de" tvg-name="ZDFneo" group-title="FreeTV",ZDFneo HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3489_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_A85E_1AF_270F_FFFF0000_0_0_0.png" tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" group-title="FreeTV",ZDFinfo HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377338_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_A85E_1AF_270F_FFFF0000_0_0_0.png" tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" group-title="FreeTV",ZDFinfo HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3487_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_42D9_79_270F_FFFF0000_0_0_0.png" tvg-id="ARTE.de" tvg-name="arte" group-title="FreeTV",arte HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3458_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_42D9_79_270F_FFFF0000_0_0_0.png" tvg-id="ARTE.de" tvg-name="arte" group-title="FreeTV",arte HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377335_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_A08D_19B_270F_FFFF0000_0_0_0.png" tvg-id="3sat.de" tvg-name="3sat" group-title="FreeTV",3sat HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3456_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_A08D_19B_270F_FFFF0000_0_0_0.png" tvg-id="3sat.de" tvg-name="3sat" group-title="FreeTV",3sat HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377336_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/heimat-kanal.png" tvg-id="Heimatkanal.de" tvg-name="3sat" group-title="FreeTV",Heimatkanal HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377302_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/heimat-kanal.png" tvg-id="Heimatkanal.de" tvg-name="3sat" group-title="FreeTV",Heimatkanal HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/352930_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/heimat-kanal.png" tvg-id="Heimatkanal.de" tvg-name="3sat" group-title="FreeTV",HEIMATKANAL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/352930_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_83_6_85_FFFF0000_0_0_0.png" tvg-id="SkyCinemaPremieren.de" tvg-name="Sky Cinema Premieren" group-title="FreeTV",Sky Cinema Premieren HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377280_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_83_6_85_FFFF0000_0_0_0.png" tvg-id="SkyCinemaPremieren.de" tvg-name="Sky Cinema Premieren" group-title="FreeTV",Sky Cinema Premieren HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3404_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_83_6_85_FFFF0000_0_0_0.png" tvg-id="SkyCinemaPremieren.de" tvg-name="Sky Cinema Premieren" group-title="FreeTV",Sky Cinema Premieren HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132815_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_83_6_85_FFFF0000_0_0_0.png" tvg-id="SkyCinemaPremieren.de" tvg-name="Sky Cinema Premieren" group-title="FreeTV",SKY CINEMA PREMIEREN HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3404_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_83_6_85_FFFF0000_0_0_0.png" tvg-id="SkyCinemaPremieren.de" tvg-name="Sky Cinema Premieren" group-title="FreeTV",SKY CINEMA PREMIEREN HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132815_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_74_D_85_FFFF0000_0_0_0.png" tvg-id="SkyAction.de" tvg-name="Sky Cinema Action" group-title="FreeTV",Sky Cinema Action HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377278_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_74_D_85_FFFF0000_0_0_0.png" tvg-id="SkyAction.de" tvg-name="Sky Cinema Action" group-title="FreeTV",Sky Cinema Action HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3417_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_74_D_85_FFFF0000_0_0_0.png" tvg-id="SkyAction.de" tvg-name="Sky Cinema Action" group-title="FreeTV",Sky Cinema Action HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132812_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_74_D_85_FFFF0000_0_0_0.png" tvg-id="SkyAction.de" tvg-name="Sky Cinema Action" group-title="FreeTV",SKY CINEMA ACTION HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3417_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_74_D_85_FFFF0000_0_0_0.png" tvg-id="SkyAction.de" tvg-name="Sky Cinema Action" group-title="FreeTV",SKY CINEMA ACTION HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132812_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_74_D_85_FFFF0000_0_0_0.png" tvg-id="SkyAction.de" tvg-name="Sky Cinema Action" group-title="FreeTV",Sky Cinema Action HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377278_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_74_D_85_FFFF0000_0_0_0.png" tvg-id="SkyAction.de" tvg-name="Sky Cinema Action" group-title="FreeTV",Sky Cinema Action HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3417_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_74_D_85_FFFF0000_0_0_0.png" tvg-id="SkyAction.de" tvg-name="Sky Cinema Action" group-title="FreeTV",Sky Cinema Action HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132812_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_74_D_85_FFFF0000_0_0_0.png" tvg-id="SkyAction.de" tvg-name="Sky Cinema Action" group-title="FreeTV",SKY CINEMA ACTION HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3417_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_74_D_85_FFFF0000_0_0_0.png" tvg-id="SkyAction.de" tvg-name="Sky Cinema Action" group-title="FreeTV",SKY CINEMA ACTION HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132812_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-cinema-family-hd.png" tvg-id="SkyCinemaFamily.de" tvg-name="Sky Cinema Family" group-title="FreeTV",Sky Cinema Family HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377273_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-cinema-family-hd.png" tvg-id="SkyCinemaFamily.de" tvg-name="Sky Cinema Family" group-title="FreeTV",Sky Cinema Family HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/30390_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-cinema-family-hd.png" tvg-id="SkyCinemaFamily.de" tvg-name="Sky Cinema Family" group-title="FreeTV",SKY CINEMA FAMILY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/30390_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_006E_0085_000D_00C00000_0_0_0_0.png" tvg-id="SkyCinemaHighlights.de" tvg-name="Sky Cinema Highlights" group-title="FreeTV",Sky Cinema Highlights HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377275_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_006E_0085_000D_00C00000_0_0_0_0.png" tvg-id="SkyCinemaHighlights.de" tvg-name="Sky Cinema Highlights" group-title="FreeTV",Sky Cinema Highlights HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/232471_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_006E_0085_000D_00C00000_0_0_0_0.png" tvg-id="SkyCinemaHighlights.de" tvg-name="Sky Cinema Highlights" group-title="FreeTV",Sky Cinema Highlights HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/311996_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_006E_0085_000D_00C00000_0_0_0_0.png" tvg-id="SkyCinemaHighlights.de" tvg-name="Sky Cinema Highlights" group-title="FreeTV",SKY CINEMA HIGHLIGHTS HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/232471_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_006E_0085_000D_00C00000_0_0_0_0.png" tvg-id="SkyCinemaHighlights.de" tvg-name="Sky Cinema Highlights" group-title="FreeTV",SKY CINEMA HIGHLIGHTS HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/311996_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_17_1_85_FFFF0000_0_0_0.png" tvg-id="SkyKrimi.de" tvg-name="Sky Krimi" group-title="FreeTV",Sky Krimi HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377269_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_17_1_85_FFFF0000_0_0_0.png" tvg-id="SkyKrimi.de" tvg-name="Sky Krimi" group-title="FreeTV",Sky Krimi HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3397_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_17_1_85_FFFF0000_0_0_0.png" tvg-id="SkyKrimi.de" tvg-name="Sky Krimi" group-title="FreeTV",SKY KRIMI
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3397_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_17_1_85_FFFF0000_0_0_0.png" tvg-id="SkyKrimi.de" tvg-name="Sky Krimi" group-title="FreeTV",Sky Krimi HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377269_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_17_1_85_FFFF0000_0_0_0.png" tvg-id="SkyKrimi.de" tvg-name="Sky Krimi" group-title="FreeTV",Sky Krimi HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3397_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_17_1_85_FFFF0000_0_0_0.png" tvg-id="SkyKrimi.de" tvg-name="Sky Krimi" group-title="FreeTV",SKY KRIMI
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3397_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_6E_D_85_FFFF0000_0_0_0.png" tvg-id="SkyAtlanticHD.de" tvg-name="Sky Atlantic" group-title="FreeTV",Sky Atlantic HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377271_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_6E_D_85_FFFF0000_0_0_0.png" tvg-id="SkyAtlanticHD.de" tvg-name="Sky Atlantic" group-title="FreeTV",Sky Atlantic HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3416_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_6E_D_85_FFFF0000_0_0_0.png" tvg-id="SkyAtlanticHD.de" tvg-name="Sky Atlantic" group-title="FreeTV",Sky Atlantic HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132811_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_6E_D_85_FFFF0000_0_0_0.png" tvg-id="SkyAtlanticHD.de" tvg-name="Sky Atlantic" group-title="FreeTV",SKY ATLANTIC HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3416_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_6E_D_85_FFFF0000_0_0_0.png" tvg-id="SkyAtlanticHD.de" tvg-name="Sky Atlantic" group-title="FreeTV",SKY ATLANTIC HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132811_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_93_D_85_FFFF0000_0_0_0.png" tvg-id="Sky1.de" tvg-name="Sky One" group-title="FreeTV",Sky One HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377281_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_93_D_85_FFFF0000_0_0_0.png" tvg-id="Sky1.de" tvg-name="Sky One" group-title="FreeTV",Sky One HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/30041_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_93_D_85_FFFF0000_0_0_0.png" tvg-id="Sky1.de" tvg-name="Sky One" group-title="FreeTV",SKY ONE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/30041_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-replay-hd.png" tvg-id="SkyReplay.de" tvg-name="Sky Replay" group-title="FreeTV",Sky Replay HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377270_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-replay-hd.png" tvg-id="SkyReplay.de" tvg-name="Sky Replay" group-title="FreeTV",Sky Replay HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/313512_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-replay-hd.png" tvg-id="SkyReplay.de" tvg-name="Sky Replay" group-title="FreeTV",SKY REPLAY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/313512_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_D_3_85_FFFF0000_0_0_0.png" tvg-id="SkyCrime.de" tvg-name="Sky Crime" group-title="FreeTV",Sky Crime HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/380166_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_D_3_85_FFFF0000_0_0_0.png" tvg-id="SkyCrime.de" tvg-name="Sky Crime" group-title="FreeTV",Sky Crime HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/332872_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_D_3_85_FFFF0000_0_0_0.png" tvg-id="SkyCrime.de" tvg-name="Sky Crime" group-title="FreeTV",SKY CRIME
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/332872_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-cinema-classics-hd.png" tvg-id="SkyCinemaClassics.de" tvg-name="Sky Cinema Classics" group-title="FreeTV",Sky Cinema Classics HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377274_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-cinema-classics-hd.png" tvg-id="SkyCinemaClassics.de" tvg-name="Sky Cinema Classics" group-title="FreeTV",Sky Cinema Classics HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3396_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-cinema-classics-hd.png" tvg-id="SkyCinemaClassics.de" tvg-name="Sky Cinema Classics" group-title="FreeTV",SKY CINEMA CLASSICS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3396_
+#EXTINF:-1 tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/skyShowase.png" tvg-id="SkyShowcase.de" tvg-name="Sky Cinema Highlights HD" group-title="FreeTV",SKY SHOWCASE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/429559_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_797F_1AF_270F_FFFF0000_0_0_0.png" tvg-id="Romance.de" tvg-name="RomanceTV" group-title="FreeTV",Romance TV HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377303_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_797F_1AF_270F_FFFF0000_0_0_0.png" tvg-id="Romance.de" tvg-name="RomanceTV" group-title="FreeTV",Romance TV HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/30054_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_797F_1AF_270F_FFFF0000_0_0_0.png" tvg-id="Romance.de" tvg-name="RomanceTV" group-title="FreeTV",ROMANCE TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/30054_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_69EA_19B_270F_FFFF0000_0_0_0.png" tvg-id="SciFi.de" tvg-name="SYFY" group-title="FreeTV",SYFY HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/339607_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_6219_19B_270F_FFFF0000_0_0_0.png" tvg-id="13thStreet.de" tvg-name="13th Street" group-title="FreeTV",13th Street HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377305_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_6219_19B_270F_FFFF0000_0_0_0.png" tvg-id="13thStreet.de" tvg-name="13th Street" group-title="FreeTV",13th Street HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/8195_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_6219_19B_270F_FFFF0000_0_0_0.png" tvg-id="13thStreet.de" tvg-name="13th Street" group-title="FreeTV",13th Street HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/173450_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_6219_19B_270F_FFFF0000_0_0_0.png" tvg-id="13thStreet.de" tvg-name="13th Street" group-title="FreeTV",13TH STREET HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/8195_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_6219_19B_270F_FFFF0000_0_0_0.png" tvg-id="13thStreet.de" tvg-name="13th Street" group-title="FreeTV",13TH STREET HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/173450_
+#EXTINF:-1 tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/AXN_BLACK.png" tvg-id="AXNBlack.de" tvg-name="AXN Black" group-title="FreeTV",AXN BLACK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3460_
+#EXTINF:-1 tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/AXN_BLACK.png" tvg-id="AXNWhite.de" tvg-name="AXN White" group-title="FreeTV",AXN WHITE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/232996_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_2B92_6F_270F_FFFF0000_0_0_0.png" tvg-id="Universal.de" tvg-name="UniversalTV" group-title="FreeTV",Universal TV HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377304_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_2B92_6F_270F_FFFF0000_0_0_0.png" tvg-id="Universal.de" tvg-name="UniversalTV" group-title="FreeTV",Universal TV HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/30043_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_2B92_6F_270F_FFFF0000_0_0_0.png" tvg-id="Universal.de" tvg-name="UniversalTV" group-title="FreeTV",UNIVERSAL TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/30043_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_5274_19B_270F_FFFF0000_0_0_0.png" tvg-id="WarnerTVFilm.de" tvg-name="Warner TV Film" group-title="FreeTV",Warner TV Film HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377311_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_5274_19B_270F_FFFF0000_0_0_0.png" tvg-id="WarnerTVFilm.de" tvg-name="Warner TV Film" group-title="FreeTV",Warner TV Film HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3363_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_5274_19B_270F_FFFF0000_0_0_0.png" tvg-id="WarnerTVFilm.de" tvg-name="Warner TV Film" group-title="FreeTV",WARNER TV FILM
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3363_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_DB2B_231_270F_FFFF0000_0_0_0.png" tvg-id="WarnerTVSerie.de" tvg-name="Warner TV Serie" group-title="FreeTV",Warner TV Serie HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377312_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_DB2B_231_270F_FFFF0000_0_0_0.png" tvg-id="WarnerTVSerie.de" tvg-name="Warner TV Serie" group-title="FreeTV",Warner TV Serie HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3362_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_DB2B_231_270F_FFFF0000_0_0_0.png" tvg-id="WarnerTVSerie.de" tvg-name="Warner TV Serie" group-title="FreeTV",WARNER TV SERIE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3362_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_94D6_1AF_270F_FFFF0000_0_0_0.png" tvg-id="WarnerTVComedy.de" tvg-name="Warner TV Comedy" group-title="FreeTV",Warner TV Comedy HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377310_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_94D6_1AF_270F_FFFF0000_0_0_0.png" tvg-id="WarnerTVComedy.de" tvg-name="Warner TV Comedy" group-title="FreeTV",Warner TV Comedy HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/30042_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_94D6_1AF_270F_FFFF0000_0_0_0.png" tvg-id="WarnerTVComedy.de" tvg-name="Warner TV Comedy" group-title="FreeTV",WARNER TV COMEDY
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/30042_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_1_E2FD_245_270F_FFFF0000_0_0_0.png" tvg-id="Silverline.de" tvg-name="Silverline Movie Channel" group-title="FreeTV",Silverline Movie Channel HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/340366_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_1_E2FD_245_270F_FFFF0000_0_0_0.png" tvg-id="Silverline.de" tvg-name="Silverline Movie Channel" group-title="FreeTV",SILVERLINE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/340366_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_526C_41D_1_C00000_0_0_0.png" tvg-id="Anixe.de" tvg-name="Anixe" group-title="FreeTV",Anixe HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/249383_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_526C_41D_1_C00000_0_0_0.png" tvg-id="Anixe.de" tvg-name="Anixe" group-title="FreeTV",Anixe HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/173476_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_526C_41D_1_C00000_0_0_0.png" tvg-id="Anixe.de" tvg-name="Anixe" group-title="FreeTV",Anixe HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377297_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_94D7_14B_270F_FFFF0000_0_0_0.png" tvg-id="RTLCrime.de" tvg-name="RTL Crime" group-title="FreeTV",RTL Crime HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377317_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_94D7_14B_270F_FFFF0000_0_0_0.png" tvg-id="RTLCrime.de" tvg-name="RTL Crime" group-title="FreeTV",RTL Crime HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/173741_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_94D7_14B_270F_FFFF0000_0_0_0.png" tvg-id="RTLCrime.de" tvg-name="RTL Crime" group-title="FreeTV",RTL CRIME
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/173741_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_B415_187_270F_FFFF0000_0_0_0.png" tvg-id="RTLLiving.de" tvg-name="RTL Living" group-title="FreeTV",RTL Living HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377314_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_B415_187_270F_FFFF0000_0_0_0.png" tvg-id="RTLLiving.de" tvg-name="RTL Living" group-title="FreeTV",RTL Living HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3483_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/rtl-passion-hd.png" tvg-id="RTLPassion.de" tvg-name="RTL Passion" group-title="FreeTV",RTL Passion HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377318_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/rtl-passion-hd.png" tvg-id="RTLPassion.de" tvg-name="RTL Passion" group-title="FreeTV",RTL Passion HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/173742_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/rtl-passion-hd.png" tvg-id="RTLPassion.de" tvg-name="RTL Passion" group-title="FreeTV",RTL PASSION
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/173742_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_C3B5_6F_270F_FFFF0000_0_0_0.png" tvg-id="TLC.de" tvg-name="TLC" group-title="FreeTV",TLC HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377298_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_C3B5_6F_270F_FFFF0000_0_0_0.png" tvg-id="TLC.de" tvg-name="TLC" group-title="FreeTV",TLC HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3365_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_C3B5_6F_270F_FFFF0000_0_0_0.png" tvg-id="TLC.de" tvg-name="TLC" group-title="FreeTV",TLC HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/434688_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_9CA6_6F_270F_FFFF0000_0_0_0.png" tvg-id="Tele5.de" tvg-name="Tele 5" group-title="FreeTV",TELE 5 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/29037_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_9CA6_6F_270F_FFFF0000_0_0_0.png" tvg-id="Tele5.de" tvg-name="Tele 5" group-title="FreeTV",TELE 5 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377296_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_9CA6_6F_270F_FFFF0000_0_0_0.png" tvg-id="Tele5.de" tvg-name="Tele 5" group-title="FreeTV",TELE 5 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/295518_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_1_566E_DD_270F_FFFF0000_0_0_0.png" tvg-id="VOXup.de" tvg-name="VOXup" group-title="FreeTV",VOXup 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/233300_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_1_566E_DD_270F_FFFF0000_0_0_0.png" tvg-id="VOXup.de" tvg-name="VOXup" group-title="FreeTV",VOXup 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377330_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_1_566E_DD_270F_FFFF0000_0_0_0.png" tvg-id="VOXup.de" tvg-name="VOXup" group-title="FreeTV",VOX up 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/233300_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_1_566E_DD_270F_FFFF0000_0_0_0.png" tvg-id="VOXup.de" tvg-name="VOXup" group-title="FreeTV",VOX up 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377330_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_AC4D_1B9_270F_FFFF0000_0_0_0.png" tvg-id="RTLPlus.de" tvg-name="RTLup" group-title="FreeTV",RTLup HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/8193_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_AC4D_1B9_270F_FFFF0000_0_0_0.png" tvg-id="RTLPlus.de" tvg-name="RTLup" group-title="FreeTV",RTLup HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377315_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_E2F5_245_270F_FFFF0000_0_0_0.png" tvg-id="DiscoveryChannel.de" tvg-name="Discovery" group-title="FreeTV",Discovery HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377250_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_E2F5_245_270F_FFFF0000_0_0_0.png" tvg-id="DiscoveryChannel.de" tvg-name="Discovery" group-title="FreeTV",Discovery HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3446_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_E2F5_245_270F_FFFF0000_0_0_0.png" tvg-id="DiscoveryChannel.de" tvg-name="Discovery" group-title="FreeTV",Discovery HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/173671_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_E2F5_245_270F_FFFF0000_0_0_0.png" tvg-id="DiscoveryChannel.de" tvg-name="Discovery" group-title="FreeTV",Discovery HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/339611_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_7D6C_141_270F_FFFF0000_0_0_0.png" tvg-id="NatGeoHD.de" tvg-name="NatGeo" group-title="FreeTV",NatGeo HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377252_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_7D6C_141_270F_FFFF0000_0_0_0.png" tvg-id="NatGeoHD.de" tvg-name="NatGeo" group-title="FreeTV",NatGeo HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/173734_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_A475_1A5_270F_FFFF0000_0_0_0.png" tvg-id="NatGeoWild.de" tvg-name="NatGeoWild" group-title="FreeTV",Nat Geo Wild HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377251_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_A475_1A5_270F_FFFF0000_0_0_0.png" tvg-id="NatGeoWild.de" tvg-name="NatGeoWild" group-title="FreeTV",Nat Geo Wild HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3454_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_A475_1A5_270F_FFFF0000_0_0_0.png" tvg-id="NatGeoWild.de" tvg-name="NatGeoWild" group-title="FreeTV",Nat Geo Wild HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/173736_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_E2F6_245_270F_FFFF0000_0_0_0.png" tvg-id="HistoryHD.de" tvg-name="HISTORY" group-title="FreeTV",HISTORY HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377248_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_E2F6_245_270F_FFFF0000_0_0_0.png" tvg-id="HistoryHD.de" tvg-name="HISTORY" group-title="FreeTV",HISTORY HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3439_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_E2F6_245_270F_FFFF0000_0_0_0.png" tvg-id="HistoryHD.de" tvg-name="HISTORY" group-title="FreeTV",HISTORY HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/173732_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_89_10_85_C00000_0_0_0.png" tvg-id="SpiegelGeschichte.de" tvg-name="Spiegel Geschichte" group-title="FreeTV",Spiegel Geschichte HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377301_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_89_10_85_C00000_0_0_0.png" tvg-id="SpiegelGeschichte.de" tvg-name="Spiegel Geschichte" group-title="FreeTV",Spiegel Geschichte HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3485_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_10_4_85_FFFF0000_0_0_0.png" tvg-id="SkyDocumentaries.de" tvg-name="Sky Documentaries" group-title="FreeTV",Sky Documentaries HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378506_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_10_4_85_FFFF0000_0_0_0.png" tvg-id="SkyDocumentaries.de" tvg-name="Sky Documentaries" group-title="FreeTV",Sky Documentaries HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377955_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_F_4_85_FFFF0000_0_0_0.png" tvg-id="SkyNature.de" tvg-name="Sky Nature" group-title="FreeTV",Sky Nature HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378505_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_F_4_85_FFFF0000_0_0_0.png" tvg-id="SkyNature.de" tvg-name="Sky Nature" group-title="FreeTV",Sky Nature HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377956_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_4DA_C_1_FFFF0000_0_0_0.png" tvg-id="AnimalPlanet.de" tvg-name="Animal Planet" group-title="FreeTV",Animal Planet HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377247_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_4DA_C_1_FFFF0000_0_0_0.png" tvg-id="AnimalPlanet.de" tvg-name="Animal Planet" group-title="FreeTV",Animal Planet HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/173453_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/kabel1-doku-hd.png" tvg-id="KabelEinsDoku.de" tvg-name="kabel eins Doku" group-title="FreeTV",kabel eins Doku HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377327_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/kabel1-doku-hd.png" tvg-id="KabelEinsDoku.de" tvg-name="kabel eins Doku" group-title="FreeTV",kabel eins Doku HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/30388_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_C79E_79_270F_FFFF0000_0_0_0.png" tvg-id="ntv.de" tvg-name="NTV" group-title="FreeTV",NTV HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377333_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_C79E_79_270F_FFFF0000_0_0_0.png" tvg-id="ntv.de" tvg-name="NTV" group-title="FreeTV",NTV HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/356351_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_C79E_79_270F_FFFF0000_0_0_0.png" tvg-id="ntv.de" tvg-name="NTV" group-title="FreeTV",NTV HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/173738_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_C79E_79_270F_FFFF0000_0_0_0.png" tvg-id="ntv.de" tvg-name="NTV" group-title="FreeTV",NTV HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/412567_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_B02D_1C3_270F_FFFF0000_0_0_0.png" tvg-id="ComedyCentralVIVA.de" tvg-name="Comedy Central" group-title="FreeTV",Comedy Central HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377294_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_B02D_1C3_270F_FFFF0000_0_0_0.png" tvg-id="ComedyCentralVIVA.de" tvg-name="Comedy Central" group-title="FreeTV",Comedy Central HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132727_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_B02D_1C3_270F_FFFF0000_0_0_0.png" tvg-id="ComedyCentralVIVA.de" tvg-name="Comedy Central" group-title="FreeTV",Comedy Central HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/339589_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_B02D_1C3_270F_FFFF0000_0_0_0.png" tvg-id="ComedyCentralVIVA.de" tvg-name="Comedy Central" group-title="FreeTV",COMEDY CENTRAL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132727_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/cartoon-network-hd.png" tvg-id="CartoonNetwork.de" tvg-name="DISNEY CHANNEL" group-title="FreeTV",CARTOON NETWORK HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/377288_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/cartoon-network-hd.png" tvg-id="CartoonNetwork.de" tvg-name="DISNEY CHANNEL" group-title="FreeTV",CARTOON NETWORK HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/8321_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/cartoon-network-hd.png" tvg-id="CartoonNetwork.de" tvg-name="DISNEY CHANNEL" group-title="FreeTV",CARTOON NETWORK HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/595256_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_B417_1C3_270F_FFFF0000_0_0_0.png" tvg-id="DeLuxeMusic.de" tvg-name="DELUXE MUSIC" group-title="FreeTV",DELUXE MUSIC HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/30358_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_16_A8_B_85_C00000_0_0_0.png" tvg-id="MotorVision.de" tvg-name="MotorVision" group-title="FreeTV Sport",MotorVision HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3433_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_16_A8_B_85_C00000_0_0_0.png" tvg-id="MotorVision.de" tvg-name="MotorVision" group-title="FreeTV Sport",MotorVision HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/478229_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_33FD_3ED_1_C00000_0_0_0.png" tvg-id="ORFSport.at" tvg-name="ORF Sport" group-title="FreeTV Sport",ORF Sport HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/375196_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_33FD_3ED_1_C00000_0_0_0.png" tvg-id="ORFSport.at" tvg-name="ORF Sport" group-title="FreeTV Sport",ORF Sport HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/260865_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_4E96_19B_270F_FFFF0000_0_0_0.png" tvg-id="Sport1HD.de" tvg-name="Sport1" group-title="FreeTV Sport",Sport1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3373_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_DB28_231_270F_FFFF0000_0_0_0.png" tvg-id="Eurosport1.de" tvg-name="Eurosport1" group-title="FreeTV Sport",Eurosport 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/412608_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_DB28_231_270F_FFFF0000_0_0_0.png" tvg-id="Eurosport1.de" tvg-name="Eurosport1" group-title="FreeTV Sport",Eurosport 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3440_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_DB28_231_270F_FFFF0000_0_0_0.png" tvg-id="Eurosport1.de" tvg-name="Eurosport1" group-title="FreeTV Sport",Eurosport 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/173729_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_B030_1C3_270F_FFFF0000_0_0_0.png" tvg-id="Eurosport2.de" tvg-name="Eurosport2" group-title="FreeTV Sport",Eurosport 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/412607_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_B030_1C3_270F_FFFF0000_0_0_0.png" tvg-id="Eurosport2.de" tvg-name="Eurosport2" group-title="FreeTV Sport",Eurosport 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/30049_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn1.png" tvg-id="DAZN1.de" tvg-name="DAZN1" group-title="FreeTV Sport",DAZN 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/356341_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn1.png" tvg-id="DAZN1.de" tvg-name="DAZN1" group-title="FreeTV Sport",DAZN 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/572014_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn1.png" tvg-id="DAZN1.de" tvg-name="DAZN1" group-title="FreeTV Sport",DAZN 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/623281_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn1.png" tvg-id="DAZN1.de" tvg-name="DAZN1" group-title="FreeTV Sport",DAZN 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/161313_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn1.png" tvg-id="DAZN1.de" tvg-name="DAZN1" group-title="FreeTV Sport",DAZN 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/583146_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn1.png" tvg-id="DAZN1.de" tvg-name="DAZN1" group-title="FreeTV Sport",DAZN 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/583147_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn1.png" tvg-id="DAZN1.de" tvg-name="DAZN1" group-title="FreeTV Sport",DAZN 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/184952_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn1.png" tvg-id="DAZN1.de" tvg-name="DAZN1" group-title="FreeTV Sport",DAZN 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/623282_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn1.png" tvg-id="DAZN1.de" tvg-name="DAZN1" group-title="FreeTV Sport",DAZN 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378117_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn1.png" tvg-id="DAZN1.de" tvg-name="DAZN1" group-title="FreeTV Sport",DAZN 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/583148_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn1.png" tvg-id="DAZN1.de" tvg-name="DAZN1" group-title="FreeTV Sport",DAZN 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/583149_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn1.png" tvg-id="DAZN1.de" tvg-name="DAZN1" group-title="FreeTV Sport",DAZN 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378118_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn1.png" tvg-id="DAZN1.de" tvg-name="DAZN1" group-title="FreeTV Sport",DAZN 1 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/356341_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn1.png" tvg-id="DAZN1.de" tvg-name="DAZN1" group-title="FreeTV Sport",DAZN 1 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/572014_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn1.png" tvg-id="DAZN1.de" tvg-name="DAZN1" group-title="FreeTV Sport",DAZN 1 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/161313_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn1.png" tvg-id="DAZN1.de" tvg-name="DAZN1" group-title="FreeTV Sport",DAZN 1 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/583146_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn1.png" tvg-id="DAZN1.de" tvg-name="DAZN1" group-title="FreeTV Sport",DAZN 1 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/583147_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn1.png" tvg-id="DAZN1.de" tvg-name="DAZN1" group-title="FreeTV Sport",DAZN 1 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/184952_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn1.png" tvg-id="DAZN1.de" tvg-name="DAZN1" group-title="FreeTV Sport",DAZN 1 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378117_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn1.png" tvg-id="DAZN1.de" tvg-name="DAZN1" group-title="FreeTV Sport",DAZN 1 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/583148_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn1.png" tvg-id="DAZN1.de" tvg-name="DAZN1" group-title="FreeTV Sport",DAZN 1 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/583149_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn1.png" tvg-id="DAZN1.de" tvg-name="DAZN1" group-title="FreeTV Sport",DAZN 1 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378118_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn2.png" tvg-id="DAZN2.de" tvg-name="DAZN2" group-title="FreeTV Sport",DAZN 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/356359_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn2.png" tvg-id="DAZN2.de" tvg-name="DAZN2" group-title="FreeTV Sport",DAZN 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/572013_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn2.png" tvg-id="DAZN2.de" tvg-name="DAZN2" group-title="FreeTV Sport",DAZN 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/623283_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn2.png" tvg-id="DAZN2.de" tvg-name="DAZN2" group-title="FreeTV Sport",DAZN 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/161314_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn2.png" tvg-id="DAZN2.de" tvg-name="DAZN2" group-title="FreeTV Sport",DAZN 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/583150_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn2.png" tvg-id="DAZN2.de" tvg-name="DAZN2" group-title="FreeTV Sport",DAZN 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/583152_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn2.png" tvg-id="DAZN2.de" tvg-name="DAZN2" group-title="FreeTV Sport",DAZN 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/184953_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn2.png" tvg-id="DAZN2.de" tvg-name="DAZN2" group-title="FreeTV Sport",DAZN 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/623284_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn2.png" tvg-id="DAZN2.de" tvg-name="DAZN2" group-title="FreeTV Sport",DAZN 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378115_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn2.png" tvg-id="DAZN2.de" tvg-name="DAZN2" group-title="FreeTV Sport",DAZN 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/583151_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn2.png" tvg-id="DAZN2.de" tvg-name="DAZN2" group-title="FreeTV Sport",DAZN 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/583153_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn2.png" tvg-id="DAZN2.de" tvg-name="DAZN2" group-title="FreeTV Sport",DAZN 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378116_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn2.png" tvg-id="DAZN2.de" tvg-name="DAZN2" group-title="FreeTV Sport",DAZN 2 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/356359_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn2.png" tvg-id="DAZN2.de" tvg-name="DAZN2" group-title="FreeTV Sport",DAZN 2 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/572013_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn2.png" tvg-id="DAZN2.de" tvg-name="DAZN2" group-title="FreeTV Sport",DAZN 2 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/161314_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn2.png" tvg-id="DAZN2.de" tvg-name="DAZN2" group-title="FreeTV Sport",DAZN 2 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/583150_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn2.png" tvg-id="DAZN2.de" tvg-name="DAZN2" group-title="FreeTV Sport",DAZN 2 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/583152_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn2.png" tvg-id="DAZN2.de" tvg-name="DAZN2" group-title="FreeTV Sport",DAZN 2 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/184953_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn2.png" tvg-id="DAZN2.de" tvg-name="DAZN2" group-title="FreeTV Sport",DAZN 2 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378115_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn2.png" tvg-id="DAZN2.de" tvg-name="DAZN2" group-title="FreeTV Sport",DAZN 2 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/583151_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn2.png" tvg-id="DAZN2.de" tvg-name="DAZN2" group-title="FreeTV Sport",DAZN 2 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/583153_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/dazn2.png" tvg-id="DAZN2.de" tvg-name="DAZN2" group-title="FreeTV Sport",DAZN 2 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378116_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_11_4_85_FFFF0000_0_0_0.png" tvg-id="SkySportF1.de" tvg-name="Sky Sport F1" group-title="FreeTV Sport",Sky Sport F1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/412606_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_11_4_85_FFFF0000_0_0_0.png" tvg-id="SkySportF1.de" tvg-name="Sky Sport F1" group-title="FreeTV Sport",Sky Sport F1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/366496_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_11_4_85_FFFF0000_0_0_0.png" tvg-id="SkySportF1.de" tvg-name="Sky Sport F1" group-title="FreeTV Sport",Sky Sport F1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/330461_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/skytennis.png" tvg-id="SkySportTennis.de" tvg-name="Sky Sport Tennis" group-title="FreeTV Sport",Sky Sport Tennis HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/426450_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/skytennis.png" tvg-id="SkySportTennis.de" tvg-name="Sky Sport Tennis" group-title="FreeTV Sport",Sky Sport Tennis HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/426455_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/2-sky-sports-golf.png" tvg-id="SkySportGolf.de" tvg-name="Sky Sport Golf" group-title="FreeTV Sport",Sky Sport Golf HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/426453_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/2-sky-sports-golf.png" tvg-id="SkySportGolf.de" tvg-name="Sky Sport Golf" group-title="FreeTV Sport",Sky Sport Golf HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/426458_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/2-sky-sports-mix.png" tvg-id="SkySportMix.de" tvg-name="Sky Sport Mix" group-title="FreeTV Sport",Sky Sport Mix HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/426451_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/2-sky-sports-mix.png" tvg-id="SkySportMix.de" tvg-name="Sky Sport Mix" group-title="FreeTV Sport",Sky Sport Mix HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/426456_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/skytopevent.png" tvg-id="SkySportTopEvent.de" tvg-name="Sky Sport Top Event" group-title="FreeTV Sport",Sky Sport Top Event HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/426449_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/skytopevent.png" tvg-id="SkySportTopEvent.de" tvg-name="Sky Sport Top Event" group-title="FreeTV Sport",Sky Sport Top Event HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/426454_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport1-hd.png" tvg-id="SkySport1.de" tvg-name="Sky Sport 1" group-title="FreeTV Sport",Sky Sport 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/30036_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport1-hd.png" tvg-id="SkySport1.de" tvg-name="Sky Sport 1" group-title="FreeTV Sport",Sky Sport 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132798_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport1-hd.png" tvg-id="SkySport1.de" tvg-name="Sky Sport 1" group-title="FreeTV Sport",Sky Sport 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/123025_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport1-hd.png" tvg-id="SkySport1.de" tvg-name="Sky Sport 1" group-title="FreeTV Sport",Sky Sport 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/395375_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport1-hd.png" tvg-id="SkySport1.de" tvg-name="Sky Sport 1" group-title="FreeTV Sport",Sky Sport 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378153_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport1-hd.png" tvg-id="SkySport1.de" tvg-name="Sky Sport 1" group-title="FreeTV Sport",Sky Sport 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378143_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport1-hd.png" tvg-id="SkySport1.de" tvg-name="Sky Sport 1" group-title="FreeTV Sport",Sky Sport 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/395373_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport2-hd.png" tvg-id="SkySport2.de" tvg-name="Sky Sport 2" group-title="FreeTV Sport",Sky Sport 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/30039_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport2-hd.png" tvg-id="SkySport2.de" tvg-name="Sky Sport 2" group-title="FreeTV Sport",Sky Sport 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132797_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport2-hd.png" tvg-id="SkySport2.de" tvg-name="Sky Sport 2" group-title="FreeTV Sport",Sky Sport 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378152_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport3-hd.png" tvg-id="SkySport3sat.de" tvg-name="Sky Sport 3" group-title="FreeTV Sport",Sky Sport 3 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/123018_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport3-hd.png" tvg-id="SkySport3sat.de" tvg-name="Sky Sport 3" group-title="FreeTV Sport",Sky Sport 3 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378150_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport4-hd.png" tvg-id="SkySport4.de" tvg-name="Sky Sport 4" group-title="FreeTV Sport",Sky Sport 4 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/123019_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport4-hd.png" tvg-id="SkySport4.de" tvg-name="Sky Sport 4" group-title="FreeTV Sport",Sky Sport 4 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378149_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport5-hd.png" tvg-id="SkySport5.de" tvg-name="Sky Sport 5" group-title="FreeTV Sport",Sky Sport 5 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/123020_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport5-hd.png" tvg-id="SkySport5.de" tvg-name="Sky Sport 5" group-title="FreeTV Sport",Sky Sport 5 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378148_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport6-hd.png" tvg-id="SkySport6.de" tvg-name="Sky Sport 6" group-title="FreeTV Sport",Sky Sport 6 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/123021_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport6-hd.png" tvg-id="SkySport6.de" tvg-name="Sky Sport 6" group-title="FreeTV Sport",Sky Sport 6 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378147_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_69_C_85_FFFF0000_0_0_0.png" tvg-id="SkyBundesliga1.de" tvg-name="Sky Sport Bundesliga 1 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/356343_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_69_C_85_FFFF0000_0_0_0.png" tvg-id="SkyBundesliga1.de" tvg-name="Sky Sport Bundesliga 1 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/572012_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_69_C_85_FFFF0000_0_0_0.png" tvg-id="SkyBundesliga1.de" tvg-name="Sky Sport Bundesliga 1 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/29997_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_69_C_85_FFFF0000_0_0_0.png" tvg-id="SkyBundesliga1.de" tvg-name="Sky Sport Bundesliga 1 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/624895_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_69_C_85_FFFF0000_0_0_0.png" tvg-id="SkyBundesliga1.de" tvg-name="Sky Sport Bundesliga 1 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3415_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_69_C_85_FFFF0000_0_0_0.png" tvg-id="SkyBundesliga1.de" tvg-name="Sky Sport Bundesliga 1 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/624894_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_69_C_85_FFFF0000_0_0_0.png" tvg-id="SkyBundesliga1.de" tvg-name="Sky Sport Bundesliga 1 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3414_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_69_C_85_FFFF0000_0_0_0.png" tvg-id="SkyBundesliga1.de" tvg-name="Sky Sport Bundesliga 1 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378163_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_69_C_85_FFFF0000_0_0_0.png" tvg-id="SkyBundesliga1.de" tvg-name="Sky Sport Bundesliga 1 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/624897_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_69_C_85_FFFF0000_0_0_0.png" tvg-id="SkyBundesliga1.de" tvg-name="Sky Sport Bundesliga 1 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/624896_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_69_C_85_FFFF0000_0_0_0.png" tvg-id="SkyBundesliga1.de" tvg-name="Sky Sport Bundesliga 1 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378154_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport-bl2-hd.png" tvg-id="SkyBundesliga2.de" tvg-name="Sky Sport Bundesliga 2 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3413_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport-bl2-hd.png" tvg-id="SkyBundesliga2.de" tvg-name="Sky Sport Bundesliga 2 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132806_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport-bl2-hd.png" tvg-id="SkyBundesliga2.de" tvg-name="Sky Sport Bundesliga 2 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378162_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport-bl3-hd.png" tvg-id="SkyBundesliga3sat.de" tvg-name="Sky Sport Bundesliga 3 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 3 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3412_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport-bl3-hd.png" tvg-id="SkyBundesliga3sat.de" tvg-name="Sky Sport Bundesliga 3 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 3 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132805_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport-bl3-hd.png" tvg-id="SkyBundesliga3sat.de" tvg-name="Sky Sport Bundesliga 3 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 3 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378161_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport-bl4-hd.png" tvg-id="SkyBundesliga4.de" tvg-name="Sky Sport Bundesliga 4 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 4 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/123115_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport-bl4-hd.png" tvg-id="SkyBundesliga4.de" tvg-name="Sky Sport Bundesliga 4 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 4 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132804_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport-bl4-hd.png" tvg-id="SkyBundesliga4.de" tvg-name="Sky Sport Bundesliga 4 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 4 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378160_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport-bl5-hd.png" tvg-id="SkyBundesliga5.de" tvg-name="Sky Sport Bundesliga 5 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 5 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3410_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport-bl5-hd.png" tvg-id="SkyBundesliga5.de" tvg-name="Sky Sport Bundesliga 5 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 5 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132803_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport-bl5-hd.png" tvg-id="SkyBundesliga5.de" tvg-name="Sky Sport Bundesliga 5 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 5 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378159_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport-bl6-hd.png" tvg-id="SkyBundesliga6.de" tvg-name="Sky Sport Bundesliga 6 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 6 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3409_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport-bl6-hd.png" tvg-id="SkyBundesliga6.de" tvg-name="Sky Sport Bundesliga 6 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 6 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132802_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport-bl6-hd.png" tvg-id="SkyBundesliga6.de" tvg-name="Sky Sport Bundesliga 6 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 6 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378158_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport-bl7-hd.png" tvg-id="SkyBundesliga7.de" tvg-name="Sky Sport Bundesliga 7 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 7 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3408_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport-bl7-hd.png" tvg-id="SkyBundesliga7.de" tvg-name="Sky Sport Bundesliga 7 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 7 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132801_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport-bl7-hd.png" tvg-id="SkyBundesliga7.de" tvg-name="Sky Sport Bundesliga 7 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 7 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378157_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport-bl8-hd.png" tvg-id="SkyBundesliga8.de" tvg-name="Sky Sport Bundesliga 8 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 8 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3407_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport-bl8-hd.png" tvg-id="SkyBundesliga8.de" tvg-name="Sky Sport Bundesliga 8 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 8 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378156_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport-bl9-hd.png" tvg-id="SkyBundesliga9.de" tvg-name="Sky Sport Bundesliga 9 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 9 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3406_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/sky-sport-bl9-hd.png" tvg-id="SkyBundesliga9.de" tvg-name="Sky Sport Bundesliga 9 HD" group-title="FreeTV Sport",Sky Sport Bundesliga 9 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378155_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_8F_8_85_C00000_0_0_0.png" tvg-id="SkySportAustria.de" tvg-name="Sky Sport Austria HD" group-title="FreeTV Sport",Sky Sport Austria HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/412605_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_8F_8_85_C00000_0_0_0.png" tvg-id="SkySportAustria.de" tvg-name="Sky Sport Austria HD" group-title="FreeTV Sport",Sky Sport Austria HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3377_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_8F_8_85_C00000_0_0_0.png" tvg-id="SkySportAustria.de" tvg-name="Sky Sport Austria HD" group-title="FreeTV Sport",Sky Sport Austria HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132800_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_8F_8_85_C00000_0_0_0.png" tvg-id="SkySportAustria.de" tvg-name="Sky Sport Austria 1 HD" group-title="FreeTV Sport",Sky Sport Austria 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378141_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_8F_8_85_C00000_0_0_0.png" tvg-id="SkySportAustria.de" tvg-name="Sky Sport Austria 1 HD" group-title="FreeTV Sport",Sky Sport Austria 1 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/212526_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_149_8_85_C00000_0_0_0.png" tvg-id="SkySportAustria2.at" tvg-name="Sky Sport Austria 2 HD" group-title="FreeTV Sport",Sky Sport Austria 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378140_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_149_8_85_C00000_0_0_0.png" tvg-id="SkySportAustria2.at" tvg-name="Sky Sport Austria 2 HD" group-title="FreeTV Sport",Sky Sport Austria 2 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/212527_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_153_8_85_C00000_0_0_0.png" tvg-id="SkySportAustria3.at" tvg-name="Sky Sport Austria 3 HD" group-title="FreeTV Sport",Sky Sport Austria 3 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/378139_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_153_8_85_C00000_0_0_0.png" tvg-id="SkySportAustria3.at" tvg-name="Sky Sport Austria 3 HD" group-title="FreeTV Sport",Sky Sport Austria 3 HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/212528_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_6C_C_85_FFFF0000_0_0_0.png" tvg-id="SkySportNewsHD.de" tvg-name="Sky Sport News" group-title="FreeTV Sport",Sky Sport News HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/356347_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_6C_C_85_FFFF0000_0_0_0.png" tvg-id="SkySportNewsHD.de" tvg-name="Sky Sport News" group-title="FreeTV Sport",Sky Sport News HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/3374_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_6C_C_85_FFFF0000_0_0_0.png" tvg-id="SkySportNewsHD.de" tvg-name="Sky Sport News" group-title="FreeTV Sport",Sky Sport News HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/132799_
+#EXTINF:-1 tvg-logo="http://jinxx.mooo.com/picon/1_0_19_9CA8_191_270F_FFFF0000_0_0_0.png" tvg-id="sportdigital.de" tvg-name="SPORTDIGITAL FUSSBALL" group-title="FreeTV Sport",SPORTDIGITAL FUSSBALL HD 
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://127.0.0.1:8080/best/itv.php?cmd=http://localhost/ch/235605_

@@ -1,0 +1,5 @@
+
+RewriteEngine On
+RewriteCond %{REQUEST_URI} ^/best/movie/htvuser/htvpw/([0-9]+).*$
+RewriteRule ^ http://127.0.0.1:8080/best/vod/htvuser/htvpw/%1.mkv [L,R=302]
+

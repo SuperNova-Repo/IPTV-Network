@@ -1,0 +1,61 @@
+
+RewriteEngine On
+RewriteCond %{QUERY_STRING} ^username=termux-xtream_user&password=termux-xtream_pass&action=get_series_info&series_id=([0-9]+)$
+RewriteRule ^player_api\.php$ http://%{HTTP_HOST}/best/api/get_series_id_%1 [L]
+
+
+
+# Weiterleitung für M3U-Plus-Anfragen (derzeit auskommentiert)
+RewriteCond %{QUERY_STRING} ^username=termux-xtream_user&password=termux-xtream_pass&type=m3u.*$
+RewriteRule ^get\.php$ http://%{HTTP_HOST}/best/live/termux-xtream_user/termux-xtream_pass/live.m3u [L]
+
+# Weiterleitung für XMLTV-Anfragen
+RewriteCond %{QUERY_STRING} ^username=termux-xtream_user&password=termux-xtream_pass$
+RewriteRule ^xmltv\.php$ http://%{HTTP_HOST}/live/guide.xml [L,R=301]
+
+# Weiterleitung für panel_api-Anfragen
+RewriteCond %{QUERY_STRING} ^username=termux-xtream_user&password=termux-xtream_pass$
+RewriteRule ^panel_api\.php$ http://%{HTTP_HOST}/best/api/panel_api [L]
+
+# Weiterleitung für player_api-Anfragen
+RewriteCond %{QUERY_STRING} ^username=termux-xtream_user&password=termux-xtream_pass$
+RewriteRule ^player_api\.php$ http://%{HTTP_HOST}/best/api/player_api [L]
+
+# Weiterleitung für Live-TV-Kategorien
+RewriteCond %{QUERY_STRING} ^username=termux-xtream_user&password=termux-xtream_pass&action=get_live_categories
+RewriteRule ^player_api\.php$ http://%{HTTP_HOST}/best/api/get_live_categories [L]
+
+# Weiterleitung für Live-TV-Streams
+RewriteCond %{QUERY_STRING} ^username=termux-xtream_user&password=termux-xtream_pass&action=get_live_streams
+RewriteRule ^player_api\.php$ http://%{HTTP_HOST}/best/api/get_live_streams [L]
+
+# Weiterleitung für Live-TV-Streams mit Kategorie-ID
+RewriteCond %{QUERY_STRING} ^username=termux-xtream_user&password=termux-xtream_pass&action=get_live_streams&category_id=([0-9]+)$
+RewriteRule ^player_api\.php$ http://%{HTTP_HOST}/best/api/live_category_id_%1 [L]
+
+
+
+
+
+
+# Weiterleitung für Live-TV-Streams
+RewriteCond %{QUERY_STRING} ^username=termux-xtream_user&password=termux-xtream_pass&action=get_vod_streams
+RewriteRule ^player_api\.php$ http://%{HTTP_HOST}/best/api/get_vod_streams [L]
+
+# Weiterleitung für Live-TV-Kategorien
+RewriteCond %{QUERY_STRING} ^username=termux-xtream_user&password=termux-xtream_pass&action=get_vod_categories
+RewriteRule ^player_api\.php$ http://%{HTTP_HOST}/best/api/get_vod_categories [L]
+
+# Weiterleitung für Live-TV-Kategorien
+RewriteCond %{QUERY_STRING} ^username=termux-xtream_user&password=termux-xtream_pass&action=get_series_categories
+RewriteRule ^player_api\.php$ http://%{HTTP_HOST}/best/api/get_series_categories [L]
+
+# Weiterleitung für Live-TV-Streams
+RewriteCond %{QUERY_STRING} ^username=termux-xtream_user&password=termux-xtream_pass&action=get_series
+RewriteRule ^player_api\.php$ http://%{HTTP_HOST}/best/api/get_series_streams [L]
+
+
+
+<FilesMatch "^player_api$">
+    SetHandler application/x-httpd-php
+</FilesMatch>

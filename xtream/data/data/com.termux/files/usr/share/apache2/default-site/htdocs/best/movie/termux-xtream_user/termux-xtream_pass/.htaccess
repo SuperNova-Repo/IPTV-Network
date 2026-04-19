@@ -1,0 +1,5 @@
+
+RewriteEngine On
+RewriteCond %{REQUEST_URI} ^/best/movie/termux-xtream_user/termux-xtream_pass/([0-9]+).*$
+RewriteRule ^ http://%{HTTP_HOST}/best/vod/termux-xtream_user/termux-xtream_pass/%1.mkv [L,R=302]
+
